@@ -1,0 +1,13 @@
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.deps.json
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.dll
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.pdb
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Models.dll
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Utility.dll
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Models.pdb
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Utility.pdb
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.csprojAssemblyReference.cache
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.AssemblyInfoInputs.cache
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.AssemblyInfo.cs
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.csproj.CopyComplete
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.dll
+C:\Users\furkan\Desktop\odev2\Taste-master\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.pdb
